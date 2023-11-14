@@ -1,0 +1,15 @@
+# Ignore the __init__.py file
+__init__.py
+
+# Ignore the admin.py file
+admin.py
+
+# Ignore the tests.py file
+tests.py
+
+# Ignore the __pycache__ directory
+__pycache__
+
+# Ignore the apps.py file
+apps.py
+
