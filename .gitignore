@@ -13,3 +13,4 @@ __pycache__
 # Ignore the apps.py file
 apps.py
 
+migrations/
